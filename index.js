@@ -11,4 +11,4 @@ function calculator(num1, num2, operator) {
     console.log("invalid operator");
   }
 }
-calculator(5, 5, "+");
+calculator(5, 5, "-");
